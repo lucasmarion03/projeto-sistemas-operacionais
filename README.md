@@ -19,3 +19,7 @@
   </li>
 </ul>
 <hr>
+<h1>Documentação</h1>
+<h2>30/08/2023 - Lucas</h2>
+<p>Feita a instalação do InfluxDB no ambiente do Arch Linux, porém ainda há dificuldades para manusear no sistema.<p>
+<p>Dificuldades para instalação do Telegraf, Electron e VS Code</p>
