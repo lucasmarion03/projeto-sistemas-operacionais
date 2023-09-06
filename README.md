@@ -38,3 +38,6 @@
 <h3>30/08/2023 - Lucas</h3>
 <p>Feita a instalação do InfluxDB no ambiente do Arch Linux, porém ainda há dificuldades para manusear no sistema.<p>
 <p>Dificuldades para instalação do Telegraf, Electron e VS Code</p>
+<h3>06/09/2023 - Lucas</h3>
+<p>Decidi começar a usar o Telegraf e o InfluxDB dentro do ambiente do Windows, para tentar entender melhor suas funcionalidades dentro de um sistema que já conheço</p>
+<p>Porém ainda estou tendo dificuldades para ligar os dois programas, mesmo já tendo configurado ambos da maneira que suas documentações indicam</p>
