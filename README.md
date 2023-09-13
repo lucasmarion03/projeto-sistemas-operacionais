@@ -41,3 +41,5 @@
 <h3>06/09/2023 - Lucas</h3>
 <p>Decidi começar a usar o Telegraf e o InfluxDB dentro do ambiente do Windows, para tentar entender melhor suas funcionalidades dentro de um sistema que já conheço</p>
 <p>Porém ainda estou tendo dificuldades para ligar os dois programas, mesmo já tendo configurado ambos da maneira que suas documentações indicam</p>
+<h3>12/09/2023 -> 13/09/2023 - Lucas</h3>
+<p>Configuração do VS Code para uso do Electron. Criação de esboços para definir interface final do projeto.</p>
