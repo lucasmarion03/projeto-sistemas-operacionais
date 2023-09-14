@@ -38,8 +38,13 @@
 <h3>30/08/2023 - Lucas</h3>
 <p>Feita a instalação do InfluxDB no ambiente do Arch Linux, porém ainda há dificuldades para manusear no sistema.<p>
 <p>Dificuldades para instalação do Telegraf, Electron e VS Code</p>
+<h3>03/09/2023 - Adriane</h3>
+<p>Realizei pesquisas sobre as ferramentas que serão utilizadas ao longo do projeto.</p>
 <h3>06/09/2023 - Lucas</h3>
 <p>Decidi começar a usar o Telegraf e o InfluxDB dentro do ambiente do Windows, para tentar entender melhor suas funcionalidades dentro de um sistema que já conheço</p>
 <p>Porém ainda estou tendo dificuldades para ligar os dois programas, mesmo já tendo configurado ambos da maneira que suas documentações indicam</p>
+<h3>11/09/2023 - Adriane</h3>
+<p>Foi realizada a instalação do InfluxDB junto do Telegraf seguindo as instruções do site oficial. A instalação foi feita dentro do meu sistema operacional(Windows),
+  meu objetivo a princípio é explorar as ferramentas e sua documentação oficial.</p>
 <h3>12/09/2023 -> 13/09/2023 - Lucas</h3>
 <p>Configuração do VS Code para uso do Electron. Criação de esboços para definir interface final do projeto.</p>
