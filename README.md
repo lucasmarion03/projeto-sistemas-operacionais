@@ -48,3 +48,6 @@
   meu objetivo a princípio é explorar as ferramentas e sua documentação oficial.</p>
 <h3>12/09/2023 -> 13/09/2023 - Lucas</h3>
 <p>Configuração do VS Code para uso do Electron. Criação de esboços para definir interface final do projeto.</p>
+<h3>27/09/2023 - Adriane e Lucas</h3>
+<p>Discussão sobre a interface do projeto e reavaliação do uso do Electron.</p>
+<p>O grupo está considerando trocar a ferramenta de criação de interface para o Grafana</p>
