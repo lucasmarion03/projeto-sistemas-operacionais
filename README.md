@@ -51,3 +51,5 @@
 <h3>27/09/2023 - Adriane e Lucas</h3>
 <p>Discussão sobre a interface do projeto e reavaliação do uso do Electron.</p>
 <p>O grupo está considerando trocar a ferramenta de criação de interface para o Grafana</p>
+<h3>07/11/2023 - Lucas</h3>
+<p>Fui bem sucedido para instalar o InfluxDB e o Grafana no ambiente do Arch, porém ainda estou aprendendo a mexer nas ferramentas. Tentei instalar o Telegraf, porém o programa está com problemas na etapa final</p>
