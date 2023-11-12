@@ -25,7 +25,7 @@
     <p>Para armazenamento de dados.</p>
   </li>
   <li>
-    <h3>Electron</h3>
+    <h3>Grafana</h3>
     <p>Para criação da interface.</p>
   </li>
 </ul>
@@ -53,3 +53,5 @@
 <p>O grupo está considerando trocar a ferramenta de criação de interface para o Grafana</p>
 <h3>07/11/2023 - Lucas</h3>
 <p>Fui bem sucedido para instalar o InfluxDB e o Grafana no ambiente do Arch, porém ainda estou aprendendo a mexer nas ferramentas. Tentei instalar o Telegraf, porém o programa está com problemas na etapa final</p>
+<h3>12/11/2023 - Lucas</h3>
+<p>Consegui fazer o uso das três ferramentas, usando cada uma para seu propósito. No fim, consegui criar dois dashboards: um que exibe o uso em porcentagem da memória e outro com o uso em porcentagem dos núcleos disponibilizados pela máquina virtual</p>
